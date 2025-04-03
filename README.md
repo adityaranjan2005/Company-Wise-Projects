@@ -1,3 +1,6 @@
+## This GitHub repository contains company-specific projects to help candidates prepare for interviews. Working on these projects sharpens coding skills, provides hands-on experience, and improves selection chances. It’s a great way to showcase problem-solving abilities and build a strong portfolio for potential employers.
+
+
 | **Company**            | **Project 1**                                                    | **Project 2**                                               | **Project 3**                                          |
 |------------------------|------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|
 | **Arista Networks**     | Network Performance Dashboard                                    | AI-Driven Network Security                                  | Automated Network Configuration Tool                  |
